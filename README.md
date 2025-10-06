@@ -4,13 +4,7 @@ This is a small static portfolio scaffold (HTML, CSS, JS) created to showcase pr
 
 How to view locally
 
-1. Open `index.html` in your browser directly, or run a simple local server:
-
-```bash
-# from the project root
-python3 -m http.server 8000
-# then open http://localhost:8000
-```
+1. Open `index.html` in your browser directly.
 
 Deployment
 
